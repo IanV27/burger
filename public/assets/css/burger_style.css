@@ -1,0 +1,16 @@
+body { 
+	background-image: url(https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/7/4/0/FN_40-Best-Bars-For-Food-Lovers-Holeman-and-Finch-Public-House-Cheeseburger-And-Fries_s4x3.jpg.rend.hgtvcom.966.725.suffix/1467774460423.jpeg) ;
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  auto;
+	background-color: #000000;  
+}
+
+div, body{
+	margin: 0;
+	padding: 0;
+	font-family: exo, sans-serif;
+	color: red;
+}
+
